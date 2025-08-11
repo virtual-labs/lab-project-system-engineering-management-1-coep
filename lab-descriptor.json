@@ -78,14 +78,14 @@
     "name": "Create documents for tests like FAT/SAT or CAT",
     "short-name": "test-docs-fat-sat-cat",
     "repo": "https://github.com/virtual-labs/exp-test-docs-coep",
-    "tag": "v1.0.0",
+    "tag": "v2.0.0",
     "deploy": true
   },
   {
     "name": "Prepare and validate the commissioning documents",
     "short-name": "commissioning-docs",
     "repo": "https://github.com/virtual-labs/exp-commissioning-docs-coep",
-    "tag": "v1.0.0",
+    "tag": "v2.0.0",
     "deploy": true
   },
   {
