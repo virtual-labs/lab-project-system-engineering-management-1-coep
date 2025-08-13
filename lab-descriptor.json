@@ -85,7 +85,7 @@
     "name": "Prepare and validate the commissioning documents",
     "short-name": "commissioning-docs",
     "repo": "https://github.com/virtual-labs/exp-commissioning-docs-coep",
-    "tag": "v2.0.0",
+    "tag": "v2.1.0",
     "deploy": true
   },
   {
